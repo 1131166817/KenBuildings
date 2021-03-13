@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Kenneth's BLOG</title>
+    <description></description>
+    <link>http://blog.whatis.vip</link>
+    <atom:link href="http://blog.whatis.vip/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>摄影学习笔记</title>
+        <description>记录一些摄影学习的笔记，不断成长中</description>
+        <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+        <link>http://blog.whatis.vip/posts/photograph-learning</link>
+        <guid isPermaLink="true">http://blog.whatis.vip/posts/photograph-learning</guid>
+      </item>
+    
+      <item>
+        <title>室内设计学习笔记1</title>
+        <description>想要理想的状态，理想的生活</description>
+        <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+        <link>http://blog.whatis.vip/posts/interior-design-learning</link>
+        <guid isPermaLink="true">http://blog.whatis.vip/posts/interior-design-learning</guid>
+      </item>
+    
+      <item>
+        <title>日记 2020-07-26</title>
+        <description>吃了星巴克牛肉千层面，喝了茶瓦纳™冰摇桃桃乌龙茶</description>
+        <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+        <link>http://blog.whatis.vip/posts/memories-2020-07-26</link>
+        <guid isPermaLink="true">http://blog.whatis.vip/posts/memories-2020-07-26</guid>
+      </item>
+    
+      <item>
+        <title>日记 2020-07-25</title>
+        <description>今天去打保龄球了，很准，还玩了卡丁车和飞镖</description>
+        <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+        <link>http://blog.whatis.vip/posts/memories-2020-07-25</link>
+        <guid isPermaLink="true">http://blog.whatis.vip/posts/memories-2020-07-25</guid>
+      </item>
+    
+      <item>
+        <title>删除了所有</title>
+        <description>已经不知道要写什么了</description>
+        <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+        <link>http://blog.whatis.vip/posts/the-terrible-day</link>
+        <guid isPermaLink="true">http://blog.whatis.vip/posts/the-terrible-day</guid>
+      </item>
+    
+      <item>
+        <title>心情很差</title>
+        <description>不希望有人可以找到我</description>
+        <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+        <link>http://blog.whatis.vip/posts/welcome-to-my-home</link>
+        <guid isPermaLink="true">http://blog.whatis.vip/posts/welcome-to-my-home</guid>
+      </item>
+    
+      <item>
+        <title>生日快乐</title>
+        <description>今天的日子很特别</description>
+        <pubDate>Sat, 02 Aug 2014 00:00:00 +0000</pubDate>
+        <link>http://blog.whatis.vip/posts/boring-birthday</link>
+        <guid isPermaLink="true">http://blog.whatis.vip/posts/boring-birthday</guid>
+      </item>
+    
+  </channel>
+</rss>
